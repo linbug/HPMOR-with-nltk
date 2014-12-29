@@ -1,4 +1,7 @@
 # Windows image file caches
+# ipython checkpoints
+.ipynb_checkpoints
+
 Thumbs.db
 ehthumbs.db
 
